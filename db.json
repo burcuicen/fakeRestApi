@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "name": "Martin Mckenzie",
+            "email": "sed.eu@outlook.ca",
+            "country": "United Kingdom",
+            "postalZip": "431098"
+        },
+        {
+            "name": "Kiona Cline",
+            "email": "eu.nibh.vulputate@protonmail.couk",
+            "country": "Pakistan",
+            "postalZip": "96863"
+        },
+        {
+            "name": "Hyacinth Rocha",
+            "email": "nisl@google.couk",
+            "country": "Germany",
+            "postalZip": "20308"
+        },
+        {
+            "name": "Quinn Tanner",
+            "email": "sem.egestas@icloud.edu",
+            "country": "Canada",
+            "postalZip": "346503"
+        },
+        {
+            "name": "Sawyer Shaw",
+            "email": "phasellus@google.edu",
+            "country": "Italy",
+            "postalZip": "641265"
+        }
+    ]
+}
